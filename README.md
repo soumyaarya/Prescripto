@@ -1,6 +1,6 @@
-# Prescripto - Doctor Appointment Web App
+# Prescripto42 - Doctor Appointment Web App
 
-**Prescripto** is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. It offers three levels of login: **Patient**, **Doctor**, and **Admin**, each with distinct features tailored to their roles. The app integrates **online payment gateways (Stripe and Razorpay)** to facilitate seamless and secure payments. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), Prescripto provides an efficient, user-friendly experience for both patients and healthcare providers.
+**Prescripto42** is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. It offers three levels of login: **Patient**, **Doctor**, and **Admin**, each with distinct features tailored to their roles. The app integrates **online payment gateways (Stripe and Razorpay)** to facilitate seamless and secure payments. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), Prescripto42 provides an efficient, user-friendly experience for both patients and healthcare providers.
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +48,7 @@
 
 ## 📄 About Page
 
-- Provides information about **Prescripto’s vision** and mission.
+- Provides information about **Prescripto42’s vision** and mission.
 - **Why Choose Us** section highlights:
   - **Efficiency**: Streamlined appointment process.
   - **Convenience**: Online booking and payment.
@@ -116,8 +116,8 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/prescripto.git
-   cd prescripto
+   git clone https://github.com/soumyaarya/Prescripto42.git
+   cd Prescripto42
    ```
 
 2. **Install Dependencies**:
@@ -144,7 +144,7 @@ To set up and run this project locally:
 ## 📦 Folder Structure
 
 ```plaintext
-prescripto/
+Prescripto42/
 ├── client/          # Frontend (React.js)
 ├── server/          # Backend (Node.js, Express.js)
 ├── models/          # MongoDB Schemas
@@ -157,14 +157,4 @@ prescripto/
 └── .env             # Environment Variables
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit issues, fork the repository, and open pull requests.
-
-
-## 🌟 Acknowledgements
-
-- Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
-
----
 
