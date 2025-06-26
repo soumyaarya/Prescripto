@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Welcome to Prescripto, your trusted partner in managing healthcare appointments with convenience and confidence. At Prescripto, we recognize the everyday challenges of scheduling doctor visits, keeping track of medical records, and finding reliable healthcare professionals.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Welcome to Prescripto42, your trusted partner in managing healthcare appointments with convenience and confidence. At Prescripto, we recognize the everyday challenges of scheduling doctor visits, keeping track of medical records, and finding reliable healthcare professionals.</p>
         </div>
 
         <div>
