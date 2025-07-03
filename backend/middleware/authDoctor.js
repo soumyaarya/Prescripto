@@ -16,4 +16,5 @@ const authDoctor = async (req, res, next) => {
     }
 }
 
+
 export default authDoctor;
